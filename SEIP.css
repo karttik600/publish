@@ -1,0 +1,298 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+    display: block;
+}
+.fulltext{
+    padding: 10px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.title1{
+    border-bottom: 1px solid #b4ce45;
+    color: #3e4fa1;
+    padding-bottom: 5px;
+}
+.First{
+    display: block;
+    margin-bottom: 5px;
+}
+.First label{
+    display: block;
+    margin-bottom: 3px;
+    margin-top: -10px;
+}
+.First select{
+    padding: 5px;
+    border: 1px solid #b4ce45;
+    width: 31%;
+    margin-top: 3px;
+}
+.secend{
+    margin-bottom: 3px;
+    display: block;
+    width: 300px;
+}
+.secend input{
+    border: 1px solid #b4ce45;
+    width: 100%;
+    padding: 5px;
+    margin-top: 3px;
+    display: block;
+}
+.input1{
+    display: block;
+    float: left;
+    width: 800px;
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+.input1 .fmgname{
+    float: left;
+    margin-right: 48px;
+    width: 200px;
+    margin-top: 3px;
+}
+.inputtext{
+    border: 1px solid #b4ce45;
+    width: 100%;
+    padding: 5px;
+    margin-top: 3px;
+}
+.six{
+    margin-bottom: 3px;
+    display: block;
+    float: left;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-right: 48px;
+    width: 200px;
+}
+.six input{
+    border: 1px solid #b4ce45;
+    width: 100%;
+    padding: 5px;
+    margin-top: 3px;
+    display: block;
+}
+.ten{
+    margin-bottom: 3px;
+    display: block;
+    width: 285px;
+}
+.ten input{
+    border: 1px solid #b4ce45;
+    width: 100%;
+    padding: 5px;
+    margin-top: 3px;
+    display: block;
+}
+.eleven{
+    margin-bottom: 3px;
+    display: block;
+    width: 285px;
+}
+.eleven input{
+    border: 1px solid #b4ce45;
+    width: 100%;
+    padding: 5px;
+    margin-top: 3px;
+    display: block;
+}
+.twlv{
+    float: left;
+    margin-top: 40px;
+    margin-right: 2px;
+    width: 230px;
+    margin-bottom: 10px;
+}
+.thirty{
+    float: left;
+    margin-top: 15px;
+    margin-right: 10px;
+    width: 450px;  
+}
+.thirty input{
+    border: 1px solid #b4ce45;
+    width: 100%;
+    padding: 5px;
+    margin-top: 3px;
+    display: block;
+}
+h3{
+    border-bottom: 1px solid #ccc;
+    clear: both;
+    margin-bottom: 10px;
+    overflow: hidden;
+    padding-bottom: 3px;
+    color: #999;
+    margin-top: 10px;
+    border-width: 50%;
+}
+.fourty{
+    margin-bottom: 3px;
+    display: block;
+    width: 680px;
+}
+.fourty input{
+    border: 1px solid #b4ce45;
+    width: 100%;
+    padding: 5px;
+    margin-top: 3px;
+    display: block;
+}
+.fifty{
+    margin-bottom: 3px;
+    display: block;
+    width: 300px;
+    float: left;
+    margin-top: 3px;
+}
+.fifty input{
+    border: 1px solid #b4ce45;
+    width: 100%;
+    padding: 5px;
+    margin-top: 3px;
+    display: block;
+}
+.sixty{
+    margin-bottom: 3px;
+    display: block;
+    width: 328px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 3px;
+}
+.sixty input{
+    border: 1px solid #b4ce45;
+    width: 100%;
+    padding: 5px;
+    margin-top: 3px;
+    display: block;
+}
+.eduction{
+    width: 680px;
+    display: block;
+    float: left;
+    margin-bottom: 5px
+}
+.fifty1{
+    display: block;
+    float: left;
+    margin-bottom: 3px;
+    width: 310px;
+}
+.input11{
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #b4ce45;
+    margin-bottom: 5px;
+    margin-top: 3px;
+}
+.sixty1{
+    display: block;
+    float: left;
+    margin-bottom: 3px;
+    width: 330px;
+    margin-left: 40px;
+}
+.sixty1 input{
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #b4ce45;
+    margin-bottom: 5px;
+    margin-top: 3px;
+}
+.subyer{
+    width: 680px;
+    display: block;
+    float: left;
+    margin-bottom: 5px
+}
+.twentyeight{
+    display: block;
+    float: left;
+    margin-bottom: 3px;
+    width: 300px; 
+}
+.twentyeight input{
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #b4ce45;
+    margin-bottom: 5px;
+    margin-top: 3px; 
+}
+.twentynine{
+    display: block;
+    float: left;
+    margin-bottom: 3px;
+    width: 330px;
+    margin-left: 50px;
+}
+.twentynine input{
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #b4ce45;
+    margin-bottom: 5px;
+    margin-top: 3px;
+}
+.jpgi{
+    font-size: 14px;
+    color: #888889;
+}
+.typecode{
+    display: block;
+    float: left;
+    margin-bottom: 3px;
+    width: 200px;
+    margin-top: 3px;
+}
+.typecode input{
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #b4ce45;
+    margin-bottom: 5px;
+    margin-top: 3px;
+}
+.imge{
+    display: block;
+    float: left;
+    margin-bottom: 3px;
+    margin-top: 3px;
+    width: 800px;
+}
+.imge img{
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.btn{
+margin-left: 280px;
+
+}
+.form_reset{
+    background: none repeat scroll 0 0 #DDDBD4 !important;
+    border: 0 none;
+    color: #464646;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: 10px;
+    margin-top: 20px;
+    padding: 5px 20px
+}
+.form_btn{
+    background: none repeat scroll 0 0 #B4CE45;
+    border: 0 none;
+    color: #464646;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: 10px;
+    margin-top: 20px;
+    padding: 5px 20px 
+}
+
+
